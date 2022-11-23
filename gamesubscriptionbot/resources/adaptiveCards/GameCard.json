@@ -1,0 +1,47 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+      {
+        "speak": "FIFA is widely acclaimed game rated 9.1 by customers.",
+        "type": "ColumnSet",
+        "columns": [
+          {
+            "type": "Column",
+            "width": 2,
+            "items": [
+              {
+                "type": "TextBlock",
+                "text": "FIFA"
+              },
+              {
+                "type": "TextBlock",
+                "text": "Go go goal",
+                "weight": "bolder",
+                "size": "extraLarge",
+                "spacing": "none"
+              },
+              {
+                "type": "TextBlock",
+                "text": "9.1 ★★★★★★★★★☆ ",
+                "isSubtle": true,
+                "spacing": "none"
+              }
+            ]
+          },
+          {
+            "type": "Column",
+            "width": 1,
+            "items": [
+              {
+                "type": "Image",
+                "url": "https://pixabay.com/vectors/football-ball-sport-soccer-round-157930/",
+                "size": "auto"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
