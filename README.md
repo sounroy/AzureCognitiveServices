@@ -1,6 +1,6 @@
 # AzureCognitiveServices
 
-This is an attempt to build bot, to direct end users to buy Game subscriptions, buid and deployed on Azure with ARM templates, integrated with LUIS and direct channel as webchat.
+This is an attempt to build bot, to direct end users to buy Game subscriptions, built and deployed on Azure with ARM templates, integrated with LUIS and direct channel as webchat.
 
 #Technologies used 
 ---------------------
