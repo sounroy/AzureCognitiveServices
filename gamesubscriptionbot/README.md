@@ -1,8 +1,7 @@
-# RRBOT
+# Game Subscription Bot
 
-Make reservations for a restaurant 
+Buy game subscriptions
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
 ## Prerequisites
 
